@@ -117,20 +117,18 @@ a:hover{
 .fz60{
   font-size: 3.91vw;/* 1280のとき60px*/
   position: relative;
-  margin-right: 1em;
   line-height: 1;
 }
-.fz60::after{
-  content:"";
-  background-image: url(../img/niti.svg);
-  width: 3.52vw;
-  height: 3.83vw;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center center;
-  position: absolute;
-  top: 0.5em;
+.bg_red{
+  font-size: 2.34vw;
+  color: #fff;
+  background: #CB1414;
+  line-height: 1;
+  padding: 0 0.25em 0.1em;
+  border-radius: 50%;
+  margin: 0 0.2em;
 }
+
 /* ファーストビューここまで */
 
 /* ニュースここから */
