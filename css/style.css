@@ -123,8 +123,8 @@ a:hover{
 .fz60::after{
   content:"";
   background-image: url(../img/niti.svg);
-  width: 3.13vw;
-  height: 3.13vw;
+  width: 3.52vw;
+  height: 3.83vw;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
